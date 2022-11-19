@@ -7,7 +7,6 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "listlinier.h"
 #include "removeDuplicate.h"
 
 List removeDuplicate(List l){
