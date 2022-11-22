@@ -1,10 +1,13 @@
-# Praktikum-IF2111-2022
-Kumpulan src praktikum mata kuliah Algoritma dan Struktur Data 2022/2023.
+# Praktikum Algoritma dan Struktur Data STI 2022
+Kumpulan src dan soal praktikum mata kuliah Algoritma dan Struktur Data (Alstrukdat) STI 2022/2023.
 
-<table>
+
+# About Praktikum-IF211-2022 Repository
+
+<table align="center">
     <tr>
-        <td>PRAKTIKUM</td>
-        <td>TOPIK PRAKTIKUM</td>
+        <td >**Praktikum**</td>
+        <td>**Topik Praktikum**</td>
     </tr>
     <tr>
         <td>01</td>
@@ -45,5 +48,24 @@ Kumpulan src praktikum mata kuliah Algoritma dan Struktur Data 2022/2023.
     <tr>
         <td>10</td>
         <td>Variasi List Linier</td>
+    </tr>
+</table>
+
+Download soal: [Soal Praktikum Alstrukdat](https://github.com/nauravalda/Praktikum-IF2111-2022/blob/main/Soal-Praktikum-IF2111-2022.pdf)
+
+
+
+
+<table>
+    <tr>
+        <td>Contributor</td>
+    </tr>
+    <tr>
+        <td>Nama</td>
+        <td>NIM</td>
+    </tr>
+        <tr>
+        <td>Naura Valda Prameswari</td>
+        <td>18221173</td>
     </tr>
 </table>
