@@ -5,49 +5,49 @@ Kumpulan src dan soal praktikum mata kuliah Algoritma dan Struktur Data (Alstruk
 ## About Praktikum-IF211-2022 Repository
 
 <table>
-    <tr style="font-weight:bold">
-        <td align="center">Praktikum</td>
-        <td align="center">Topik Praktikum</td>
+    <tr>
+        <td align="center" style="font-weight:bold">Praktikum</td>
+        <td align="center" style="font-weight:bold">Topik Praktikum</td>
     </tr>
     <tr>
         <td align="center">01</td>
-        <td align="center">Pengenalan Bahasa C</td>
+        <td>Pengenalan Bahasa C</td>
     </tr>
     <tr>
         <td align="center">02</td>
-        <td align="center">Pengenalan Bahasa C</td>
+        <td>Pengenalan Bahasa C</td>
     </tr>
     <tr>
         <td align="center">03</td>
-        <td align="center">ADT, Pointer dan Array Dinamik</td>
+        <td>ADT, Pointer dan Array Dinamik</td>
     </tr>
     <tr>
         <td align="center">04</td>
-        <td align="center">Array dan ADT List</td>
+        <td>Array dan ADT List</td>
     </tr>
     <tr>
         <td align="center">05</td>
-        <td align="center">Mesin Karakter</td>
+        <td>Mesin Karakter</td>
     </tr>
     <tr>
         <td align="center">06</td>
-        <td align="center">Queue</td>
+        <td>Queue</td>
     </tr>
     <tr>
         <td align="center">07</td>
-        <td align="center">Stack</td>
+        <td>Stack</td>
     </tr>
     <tr>
         <td align="center">08</td>
-        <td align="center">Set, Map, Hash</td>
+        <td>Set, Map, Hash</td>
     </tr>
     <tr>
         <td align="center">09</td>
-        <td align="center">Struktur Berkait</td>
+        <td>Struktur Berkait</td>
     </tr>
     <tr>
         <td align="center">10</td>
-        <td align="center">Variasi List Linier</td>
+        <td>Variasi List Linier</td>
     </tr>
 </table>
 
