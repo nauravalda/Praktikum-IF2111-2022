@@ -6,7 +6,7 @@ Kumpulan src dan soal praktikum mata kuliah Algoritma dan Struktur Data (Alstruk
 
 <table>
     <tr>
-        <td align="center" style="font-weight:bold">Praktikum</td>
+        <td align="center" style="font-size:20px">Praktikum</td>
         <td align="center" style="font-weight:bold">Topik Praktikum</td>
     </tr>
     <tr>
